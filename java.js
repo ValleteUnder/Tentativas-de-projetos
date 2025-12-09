@@ -1,4 +1,3 @@
-// JavaScript para enfeitar com tema de Natal
 (function(){
   const style = document.createElement('style');
   style.textContent = `
@@ -95,3 +94,4 @@
     setInterval(createSnowflake, 400);
   });
 })();
+
